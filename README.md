@@ -36,5 +36,3 @@ I love building **intelligent applications**, analyzing data, and learning new t
 
 ---
 
-## ✨ GitHub Stats
-![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diya-vora&show_icons=true&theme=radical)
