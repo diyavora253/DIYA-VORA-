@@ -1,2 +1,1 @@
-# DIYA-VORA-
-“Portfolio of Diya Vora – AI &amp; ML Developer | Python Programmer | Data Analyst”
+Portfolio of Diya Vora – Aspiring AI & ML Developer | Python Programmer | Data Analyst
